@@ -1,17 +1,12 @@
-# Proje Adı: **Internet Communication Protocol (ICP) Projesi**
+# Proje Adı: **Phone Book and Messaging System**
 
 ## Hakkında  
-Bu proje, **Internet Communication Protocol (ICP)** prensiplerine dayalı olarak veri iletişimi ve ağ protokolleri üzerine geliştirilmiştir. Projenin amacı, internet ortamında güvenli, hızlı ve verimli bir veri alışverişi sağlamaktır. Proje, **Angular, Node.js veya diğer modern web teknolojileriyle** entegrasyon düşünülerek tasarlanmıştır.
-
-## Özellikler  
-- **Hızlı İletişim:** Verilerin hızlı bir şekilde iletilmesini sağlayan optimize edilmiş protokoller.  
-- **Güvenli Altyapı:** İletim sırasında verilerin güvenliğini sağlamak için şifreleme mekanizmaları.  
-- **Kolay Entegrasyon:** Farklı platform ve uygulamalara entegrasyon için esnek yapı.
+Bu proje, bir telefon rehberi ve mesajlaşma sistemi simülasyonu sağlayan Motoko dilinde yazılmış bir aktör modülüdür. Telefon rehberi, kullanıcı bilgilerini depolarken mesajlaşma sistemi belirli telefon numaralarına mesaj göndermeyi ve geçmiş mesajları saklamayı sağlar. Proje, Internet Computer (IC) platformunda çalışmak üzere tasarlanmıştır. **2025 Patika.dev Stajı || Project Building Workshop için yapılmıştır.**
 
 ## Kullanım  
 1. Projeyi klonlayın:  
    ```bash
-   git clone https://github.com/kullanıcıAdı/icp-proje.git
+   git clone https://github.com/yyaarenddurmaz/icp-proje.git
    ```
 2. Gerekli bağımlılıkları yükleyin:  
    ```bash
@@ -23,7 +18,7 @@ Bu proje, **Internet Communication Protocol (ICP)** prensiplerine dayalı olarak
    ```
 
 ## Geliştirici Hakkında  
-Bu proje, **Yaren Durmaz** tarafından geliştirilmiştir. Web uygulamaları, frontend geliştirme ve SEO alanlarında uzmanlaşmak isteyen bir yazılım geliştirici olarak, projelerimde **teknolojik yenilikleri** ve **en iyi uygulamaları** bir araya getirmeye çalışıyorum.  
+Bu proje, **Yaren Durmaz** tarafından geliştirilmiştir. Web uygulamaları, frontend geliştirme ve SEO alanlarında uzmanlaşmaya çalışıyorum.
 
 LinkedIn, GitHub ve E-posta üzerinden benimle iletişime geçebilirsiniz:  
 - [LinkedIn](https://linkedin.com/in/yarendurmaz)  
